@@ -90,6 +90,7 @@ const territoryMap = {
         'northeast-georgia': ['30004', '30115', '30107', '30040', '30028', '30534', '30041', '30506', '30501', '30564', '30527'],
         'north-atlanta': ['30346', '30338', '30350', '30067', '30062', '30068', '30075', '30076', '30009', '30092', '30022', '30005', '30328'],
         'south-charlotte': ['28273', '28134', '28278', '28217', '28277', '28226', '28210', '28209', '28203', '28244', '28280', '28202', '28246', '28207', '28204', '28211', '28205'],
+        'north-nashville': ['37082', '37062', '37143', '37221', '37069', '37027', '37211', '37220', '37204', '37215', '37205', '37209', '37218', '37232', '37212', '37240', '37203', '37208'],
  // Add more US territories as needed
     }
 };
@@ -132,6 +133,7 @@ const urlMap = {
     'northeast-georgia': 'https://localhandyman.com/northeast-georgia',
     'north-atlanta': 'https://localhandyman.com/north-atlanta',
     'south-charlotte': 'https://localhandyman.com/south-charlotte',
+    'north-nashville': 'https://localhandyman.com/nashville-brentwood',
     'default': 'https://localhandyman.com/default-location',
 };
 
