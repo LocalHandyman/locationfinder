@@ -131,6 +131,7 @@ const urlMap = {
     'austin': 'https://localhandyman.com/austin',
     'northeast-georgia': 'https://localhandyman.com/northeast-georgia',
     'north-atlanta': 'https://localhandyman.com/north-atlanta',
+    'south-charlotte': 'https://localhandyman.com/south-charlotte',
     'default': 'https://localhandyman.com/default-location',
 };
 
